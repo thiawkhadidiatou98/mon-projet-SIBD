@@ -1,0 +1,9 @@
+Le projet portant sur la gestion estudiantine est structurée comme suit:
+Après installation de mysql et python , nous avons installé le module mysql connector de python
+On a défini un utilisateur et un mot de passe
+Utilisateur : root
+Mot de passe : user123
+Nous avons procédé à la création de 3 fenêtres sur python
+1-base de données (table.py) qui permet d'établir une base de données mysql
+2-création de la fenêtre (étudiant.py) qui crée la table étudiant 
+3-création de la fenêtre principale avec le module tkinter
